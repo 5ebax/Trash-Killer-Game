@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 36a7aab3e3f4ed643a8a34233e8fd6f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4762403386814974574
+    second: "AtlasFemaleMarDa\xF1o_0"
+  - first:
+      213: -5001572691553021087
+    second: "AtlasFemaleMarDa\xF1o_1"
+  - first:
+      213: 986930598268006418
+    second: "AtlasFemaleMarDa\xF1o_2"
+  - first:
+      213: -4114136204884885312
+    second: "AtlasFemaleMarDa\xF1o_3"
+  - first:
+      213: 4801226680185414413
+    second: "AtlasFemaleMarDa\xF1o_4"
+  - first:
+      213: -3719373986686118137
+    second: "AtlasFemaleMarDa\xF1o_5"
+  - first:
+      213: 4132251621877994848
+    second: "AtlasFemaleMarDa\xF1o_6"
+  - first:
+      213: -2387032767820096763
+    second: "AtlasFemaleMarDa\xF1o_7"
+  - first:
+      213: -2312135035024172653
+    second: "AtlasFemaleMarDa\xF1o_8"
+  - first:
+      213: 6269808986930176349
+    second: "AtlasFemaleMarDa\xF1o_9"
+  - first:
+      213: -6882864132578980934
+    second: "AtlasFemaleMarDa\xF1o_10"
+  - first:
+      213: 2121149372416752211
+    second: "AtlasFemaleMarDa\xF1o_11"
+  - first:
+      213: -5736015053157615797
+    second: "AtlasFemaleMarDa\xF1o_12"
+  - first:
+      213: -4386863334606159255
+    second: "AtlasFemaleMarDa\xF1o_13"
+  - first:
+      213: 4781147396328795908
+    second: "AtlasFemaleMarDa\xF1o_14"
+  - first:
+      213: 7044762021522558074
+    second: "AtlasFemaleMarDa\xF1o_15"
+  - first:
+      213: -9066620040017164114
+    second: "AtlasFemaleMarDa\xF1o_16"
+  - first:
+      213: 8160121076119237733
+    second: "AtlasFemaleMarDa\xF1o_17"
+  - first:
+      213: 4998828823148628815
+    second: "AtlasFemaleMarDa\xF1o_18"
+  - first:
+      213: -1437150396495033598
+    second: "AtlasFemaleMarDa\xF1o_19"
+  - first:
+      213: -6478136526119288921
+    second: "AtlasFemaleMarDa\xF1o_20"
+  - first:
+      213: 1073063429964171608
+    second: "AtlasFemaleMarDa\xF1o_21"
+  - first:
+      213: -4503136340688496943
+    second: "AtlasFemaleMarDa\xF1o_22"
+  - first:
+      213: -9125489479199781857
+    second: "AtlasFemaleMarDa\xF1o_23"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 207
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4934e5a4771240800000000000000
+      internalID: 4762403386814974574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 207
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16310b1f228d69ab0800000000000000
+      internalID: -5001572691553021087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 207
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107abf662842bd00800000000000000
+      internalID: 986930598268006418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 206
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c043465be6a7e6c0800000000000000
+      internalID: -4114136204884885312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_4"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 206
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0364964a3261a240800000000000000
+      internalID: 4801226680185414413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_5"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 206
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707deb0b011226cc0800000000000000
+      internalID: -3719373986686118137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_6"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 151
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d19cd4f4b85930800000000000000
+      internalID: 4132251621877994848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_7"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 151
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9dde385e8fded0800000000000000
+      internalID: -2387032767820096763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_8"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 151
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39916a49f65a9efd0800000000000000
+      internalID: -2312135035024172653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_9"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 150
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5166830e06d20750800000000000000
+      internalID: 6269808986930176349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_10"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 150
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4a54d9872b70a0800000000000000
+      internalID: -6882864132578980934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_11"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 150
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a717aad16df6d10800000000000000
+      internalID: 2121149372416752211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_12"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473f3a23b49560b0800000000000000
+      internalID: -5736015053157615797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_13"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624d9e2a0bbe13c0800000000000000
+      internalID: -4386863334606159255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_14"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f26f0b93c0a5240800000000000000
+      internalID: 4781147396328795908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_15"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 83
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cc30cdbb504c160800000000000000
+      internalID: 7044762021522558074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_16"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 83
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c6515c15ec2280800000000000000
+      internalID: -9066620040017164114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_17"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564f34272e29e3170800000000000000
+      internalID: 8160121076119237733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_18"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b02c864586f5540800000000000000
+      internalID: 4998828823148628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_19"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 25
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0a1824573e0ce0800000000000000
+      internalID: -1437150396495033598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_20"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 25
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3d22f6290916a0800000000000000
+      internalID: -6478136526119288921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_21"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 27
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590a74118944ee00800000000000000
+      internalID: 1073063429964171608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_22"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 27
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61c165b55a181c0800000000000000
+      internalID: -4503136340688496943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasFemaleMarDa\xF1o_23"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 27
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8bb6eaafbb5180800000000000000
+      internalID: -9125489479199781857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

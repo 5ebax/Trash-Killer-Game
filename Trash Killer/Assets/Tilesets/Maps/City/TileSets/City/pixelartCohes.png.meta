@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 5b2f3132cfcd6da41afc6011b19df948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7378845293215160079
+    second: pixelartCohes_0
+  - first:
+      213: -7266071445090563807
+    second: pixelartCohes_1
+  - first:
+      213: 7294659864321259615
+    second: pixelartCohes_2
+  - first:
+      213: 5178464435345254129
+    second: pixelartCohes_3
+  - first:
+      213: -3284524224843217108
+    second: pixelartCohes_4
+  - first:
+      213: -7863206722119185006
+    second: pixelartCohes_5
+  - first:
+      213: 3917592854330532628
+    second: pixelartCohes_6
+  - first:
+      213: -1399764982997133278
+    second: pixelartCohes_7
+  - first:
+      213: 1265322507093537672
+    second: pixelartCohes_8
+  - first:
+      213: 9118340475669999838
+    second: pixelartCohes_9
+  - first:
+      213: 3247843051566482001
+    second: pixelartCohes_10
+  - first:
+      213: -8782144706282842110
+    second: pixelartCohes_11
+  - first:
+      213: -8236497063192281997
+    second: pixelartCohes_12
+  - first:
+      213: 7402388328925462152
+    second: pixelartCohes_13
+  - first:
+      213: -5091672237099560272
+    second: pixelartCohes_14
+  - first:
+      213: 1818552089169575289
+    second: pixelartCohes_15
+  - first:
+      213: -3113691879125270501
+    second: pixelartCohes_16
+  - first:
+      213: 4255620000173922216
+    second: pixelartCohes_17
+  - first:
+      213: -9218856184565366767
+    second: pixelartCohes_18
+  - first:
+      213: -725008290037571146
+    second: pixelartCohes_19
+  - first:
+      213: -3582732237304182494
+    second: pixelartCohes_20
+  - first:
+      213: -7284965898287991957
+    second: pixelartCohes_21
+  - first:
+      213: 3960382242581476042
+    second: pixelartCohes_22
+  - first:
+      213: -779786510761099281
+    second: pixelartCohes_23
+  - first:
+      213: -6098137179517998613
+    second: pixelartCohes_24
+  - first:
+      213: 7934943653087168445
+    second: pixelartCohes_25
+  - first:
+      213: 7443569755176141914
+    second: pixelartCohes_26
+  - first:
+      213: -3424130287611126878
+    second: pixelartCohes_27
+  - first:
+      213: -7057765810952032172
+    second: pixelartCohes_28
+  - first:
+      213: 8882678800038030141
+    second: pixelartCohes_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelartCohes_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 735
+        width: 171
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e855fc43199990800000000000000
+      internalID: -7378845293215160079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 883
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12984ca948ab92b90800000000000000
+      internalID: -7266071445090563807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 782
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58fa227f76db3560800000000000000
+      internalID: 7294659864321259615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 793
+        width: 138
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66fbe97f99dd740800000000000000
+      internalID: 5178464435345254129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 784
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270e02ae960b62d0800000000000000
+      internalID: -3284524224843217108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 790
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4f94b52740e290800000000000000
+      internalID: -7863206722119185006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 800
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413eaf8d1f51e5630800000000000000
+      internalID: 3917592854330532628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 796
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228dc6b0a29039ce0800000000000000
+      internalID: -1399764982997133278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 779
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fd91cd145f8110800000000000000
+      internalID: 1265322507093537672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 523
+        width: 149
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed070610a5ada8e70800000000000000
+      internalID: 9118340475669999838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 614
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15247de2c08a21d20800000000000000
+      internalID: 3247843051566482001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 602
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081fef5bed8f1680800000000000000
+      internalID: -8782144706282842110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 613
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c30e25f8512bd80800000000000000
+      internalID: -8236497063192281997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 611
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e791337f09ab660800000000000000
+      internalID: 7402388328925462152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 606
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b256f2c31fb659b0800000000000000
+      internalID: -5091672237099560272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 475
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3f707d7bcc3910800000000000000
+      internalID: 1818552089169575289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 427
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1048b4abb1f9c4d0800000000000000
+      internalID: -3113691879125270501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 435
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71a69c7dffe0b30800000000000000
+      internalID: 4255620000173922216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 435
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110819bc42b001080800000000000000
+      internalID: -9218856184565366767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_19
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 290
+        width: 284
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e81d2dc040f5f0800000000000000
+      internalID: -725008290037571146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 340
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c4262304974ec0800000000000000
+      internalID: -3582732237304182494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b5b7ec1a96ea90800000000000000
+      internalID: -7284965898287991957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 269
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac275d7aaaa16f630800000000000000
+      internalID: 3960382242581476042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 272
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7179cc44ad25f0800000000000000
+      internalID: -779786510761099281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92a376b801f5ba0800000000000000
+      internalID: -6098137179517998613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 56
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7400b16359e1e60800000000000000
+      internalID: 7934943653087168445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a548d1e214fdc4760800000000000000
+      internalID: 7443569755176141914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 87
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab584e25ab0b70d0800000000000000
+      internalID: -3424130287611126878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 96
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450be4a7367cd0e90800000000000000
+      internalID: -7057765810952032172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelartCohes_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 93
+        width: 113
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be8226e4d954b70800000000000000
+      internalID: 8882678800038030141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

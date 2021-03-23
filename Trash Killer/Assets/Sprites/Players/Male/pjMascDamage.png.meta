@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: 45f4962aa38a5064ebb38ddd30139f6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7540595802908378850
+    second: pjMascDamage_0
+  - first:
+      213: -8899366931777408109
+    second: pjMascDamage_1
+  - first:
+      213: 824148855131360905
+    second: pjMascDamage_2
+  - first:
+      213: -8103747561844820752
+    second: pjMascDamage_3
+  - first:
+      213: -7146429554168397663
+    second: pjMascDamage_4
+  - first:
+      213: -8547032874681542447
+    second: pjMascDamage_5
+  - first:
+      213: -6337465592453084861
+    second: pjMascDamage_6
+  - first:
+      213: -2646151641098586872
+    second: pjMascDamage_7
+  - first:
+      213: 3348280811006043711
+    second: pjMascDamage_8
+  - first:
+      213: 2557814810341946101
+    second: pjMascDamage_9
+  - first:
+      213: 3576338179164326233
+    second: pjMascDamage_10
+  - first:
+      213: -1753660512817652588
+    second: pjMascDamage_11
+  - first:
+      213: 3926325537248849142
+    second: pjMascDamage_12
+  - first:
+      213: 71796303441124067
+    second: pjMascDamage_13
+  - first:
+      213: 3276208578869672368
+    second: pjMascDamage_14
+  - first:
+      213: 515999003410791276
+    second: pjMascDamage_15
+  - first:
+      213: -2095754410244967440
+    second: pjMascDamage_16
+  - first:
+      213: 2662202482039503421
+    second: pjMascDamage_17
+  - first:
+      213: 217474093491653339
+    second: pjMascDamage_18
+  - first:
+      213: -4741100675847993363
+    second: pjMascDamage_19
+  - first:
+      213: -7500751644823706802
+    second: pjMascDamage_20
+  - first:
+      213: -4019538057516096543
+    second: pjMascDamage_21
+  - first:
+      213: 5836224843396578624
+    second: pjMascDamage_22
+  - first:
+      213: 480983170178149164
+    second: pjMascDamage_23
+  - first:
+      213: -13183880396238726
+    second: pjMascDamage_24
+  - first:
+      213: 7183755932113208341
+    second: pjMascDamage_25
+  - first:
+      213: -8639277126510357956
+    second: pjMascDamage_26
+  - first:
+      213: 2165873639577151485
+    second: pjMascDamage_27
+  - first:
+      213: -7269469960959642835
+    second: pjMascDamage_28
+  - first:
+      213: 540215036726723205
+    second: pjMascDamage_29
+  - first:
+      213: 94402314521602281
+    second: pjMascDamage_30
+  - first:
+      213: -5129637313771339572
+    second: pjMascDamage_31
+  - first:
+      213: 4976938919908693240
+    second: pjMascDamage_32
+  - first:
+      213: -723280719348616975
+    second: pjMascDamage_33
+  - first:
+      213: 2058202934354571979
+    second: pjMascDamage_34
+  - first:
+      213: 2118153219200256426
+    second: pjMascDamage_35
+  - first:
+      213: -3707791744425676153
+    second: pjMascDamage_36
+  - first:
+      213: 4925936668096282752
+    second: pjMascDamage_37
+  - first:
+      213: 6291404688441335187
+    second: pjMascDamage_38
+  - first:
+      213: 5507791084261755860
+    second: pjMascDamage_39
+  - first:
+      213: -3940890994238753658
+    second: pjMascDamage_40
+  - first:
+      213: -3688327787865655657
+    second: pjMascDamage_41
+  - first:
+      213: -7636120000493843897
+    second: pjMascDamage_42
+  - first:
+      213: 4658950405381242647
+    second: pjMascDamage_43
+  - first:
+      213: 1958110811726130594
+    second: pjMascDamage_44
+  - first:
+      213: 1310062111721269538
+    second: pjMascDamage_45
+  - first:
+      213: -5088156100001205896
+    second: pjMascDamage_46
+  - first:
+      213: -7910550582788124701
+    second: pjMascDamage_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pjMascDamage_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c7235ee395a860800000000000000
+      internalID: 7540595802908378850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393bc892de81f7480800000000000000
+      internalID: -8899366931777408109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e46286407ff6b00800000000000000
+      internalID: 824148855131360905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43dca2784b98f80800000000000000
+      internalID: -8103747561844820752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a080731f28c2dc90800000000000000
+      internalID: -7146429554168397663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 656
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8550572e6d26980800000000000000
+      internalID: -8547032874681542447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c299fe9ccc08a0800000000000000
+      internalID: -6337465592453084861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80570823a1bf64bd0800000000000000
+      internalID: -2646151641098586872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a54c58ab777e20800000000000000
+      internalID: 3348280811006043711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23aa3a40f2f7320800000000000000
+      internalID: 2557814810341946101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c1cd20a4b1a130800000000000000
+      internalID: 3576338179164326233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 655
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cdfdc0e0fb9a7e0800000000000000
+      internalID: -1753660512817652588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 514
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2348064c1d7630800000000000000
+      internalID: 3926325537248849142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 514
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5bca8b521ff000800000000000000
+      internalID: 71796303441124067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 513
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93d99285e677d20800000000000000
+      internalID: 3276208578869672368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 513
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b71c61c52392700800000000000000
+      internalID: 515999003410791276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 513
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f3e8b7726ae2e0800000000000000
+      internalID: -2095754410244967440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 512
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab02e6d0b02f420800000000000000
+      internalID: 2662202482039503421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 369
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8b6a298f940300800000000000000
+      internalID: 217474093491653339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 368
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de747b30e0a343eb0800000000000000
+      internalID: -4741100675847993363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 368
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432bd5ae1af7e790800000000000000
+      internalID: -7500751644823706802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 368
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3e690ee6bb738c0800000000000000
+      internalID: -4019538057516096543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 367
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d76fbc29f6ef050800000000000000
+      internalID: 5836224843396578624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 367
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be86915abcca600800000000000000
+      internalID: 480983170178149164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709834a45921dff0800000000000000
+      internalID: -13183880396238726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51486b685f3d1b360800000000000000
+      internalID: 7183755932113208341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32513ee93f1b1880800000000000000
+      internalID: -8639277126510357956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e063999abe0e10800000000000000
+      internalID: 2165873639577151485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b0a7f597ad1b90800000000000000
+      internalID: -7269469960959642835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 298
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582cb66b6ba3f7700800000000000000
+      internalID: 540215036726723205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e807a7626f4100800000000000000
+      internalID: 94402314521602281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc002168a0edfc8b0800000000000000
+      internalID: -5129637313771339572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f459f52493a11540800000000000000
+      internalID: 4976938919908693240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03652940466f5f0800000000000000
+      internalID: -723280719348616975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_34
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fed9f9a4309c10800000000000000
+      internalID: 2058202934354571979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_35
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 297
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa908426121356d10800000000000000
+      internalID: 2118153219200256426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 156
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b16c9d074b8cc0800000000000000
+      internalID: -3707791744425676153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08043f70d417c5440800000000000000
+      internalID: 4925936668096282752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 155
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd5c81b3f8f4750800000000000000
+      internalID: 6291404688441335187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 155
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4c724fca9f6c40800000000000000
+      internalID: 5507791084261755860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_40
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 155
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684fcdd35842f49c0800000000000000
+      internalID: -3940890994238753658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 154
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b0152b6d60dcc0800000000000000
+      internalID: -3688327787865655657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0f44415d070690800000000000000
+      internalID: -7636120000493843897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f39e2a5bae7a040800000000000000
+      internalID: 4658950405381242647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada9c3a86b9c2b10800000000000000
+      internalID: 1958110811726130594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 10
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22928d2bc864e2210800000000000000
+      internalID: 1310062111721269538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 9
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f0b93cfc3369b0800000000000000
+      internalID: -5088156100001205896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjMascDamage_47
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 9
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef87272824183290800000000000000
+      internalID: -7910550582788124701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

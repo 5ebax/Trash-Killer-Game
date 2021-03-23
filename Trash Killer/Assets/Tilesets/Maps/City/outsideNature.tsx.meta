@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d32ce3c4a1a6bb64a8eb1c9c9ef72909
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Tilesets/Maps/City/TileSets/Forest/tilesets/C_OutSide_Nature.png
+  errors:
+  - 'Missing texture asset: TileSets/Forest/tilesets/C_OutSide_Nature.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

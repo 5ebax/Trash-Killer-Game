@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: ba7f23774759da64bae66b6f15951bd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5682205969657062459
+    second: jefeCityDead_0
+  - first:
+      213: 2186280119784550737
+    second: jefeCityDead_1
+  - first:
+      213: 1269467349624583579
+    second: jefeCityDead_2
+  - first:
+      213: 6261162966900676929
+    second: jefeCityDead_3
+  - first:
+      213: 1677688435118263359
+    second: jefeCityDead_4
+  - first:
+      213: 8548876232129497318
+    second: jefeCityDead_5
+  - first:
+      213: -7407910716744543906
+    second: jefeCityDead_6
+  - first:
+      213: -4994027967870348406
+    second: jefeCityDead_7
+  - first:
+      213: 2967045257828906227
+    second: jefeCityDead_8
+  - first:
+      213: -5103639829819492464
+    second: jefeCityDead_9
+  - first:
+      213: -340575859708089401
+    second: jefeCityDead_10
+  - first:
+      213: -2739078233955656701
+    second: jefeCityDead_11
+  - first:
+      213: -310670822964219137
+    second: jefeCityDead_12
+  - first:
+      213: 2394439786497410666
+    second: jefeCityDead_13
+  - first:
+      213: 292333353727575764
+    second: jefeCityDead_14
+  - first:
+      213: 6827067116335343734
+    second: jefeCityDead_15
+  - first:
+      213: 4603699763415800018
+    second: jefeCityDead_16
+  - first:
+      213: -2152459447751801132
+    second: jefeCityDead_17
+  - first:
+      213: -7946039296487487052
+    second: jefeCityDead_18
+  - first:
+      213: 8111725510736409714
+    second: jefeCityDead_19
+  - first:
+      213: -3462352201958932056
+    second: jefeCityDead_20
+  - first:
+      213: -8316630988873843886
+    second: jefeCityDead_21
+  - first:
+      213: 1439781229520497241
+    second: jefeCityDead_22
+  - first:
+      213: -3777995952607455622
+    second: jefeCityDead_23
+  - first:
+      213: 1641554307476089795
+    second: jefeCityDead_24
+  - first:
+      213: -1351637417034296833
+    second: jefeCityDead_25
+  - first:
+      213: 7945037840761588668
+    second: jefeCityDead_26
+  - first:
+      213: -7294360204824531762
+    second: jefeCityDead_27
+  - first:
+      213: 6446246564290207923
+    second: jefeCityDead_28
+  - first:
+      213: -91223487112888664
+    second: jefeCityDead_29
+  - first:
+      213: 3051511909032755878
+    second: jefeCityDead_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jefeCityDead_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9cf5b6cfb421b0800000000000000
+      internalID: -5682205969657062459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 79
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b14f7f2a375e10800000000000000
+      internalID: 2186280119784550737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 207
+        width: 77
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95745c14dd0e9110800000000000000
+      internalID: 1269467349624583579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 207
+        width: 95
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14912fa9b8e14e650800000000000000
+      internalID: 6261162966900676929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 141
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c41033eb8584710800000000000000
+      internalID: 1677688435118263359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 272
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cbd4a3a5b3a670800000000000000
+      internalID: 8548876232129497318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefeCityDead_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 206
+        width: 42
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d1a0b370d13990800000000000000
+      internalID: -7407910716744543906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

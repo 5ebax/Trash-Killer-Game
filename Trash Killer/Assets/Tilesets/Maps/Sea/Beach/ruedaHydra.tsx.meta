@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6d062f7737f285848b0cb12f7ecc6f3e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Tilesets/Maps/Sea/Beach/TileSets/City/AssetsDeCiudad/PNG/City1/Bright/basura.png
+  errors:
+  - 'Missing texture asset: TileSets/City/AssetsDeCiudad/PNG/City1/Bright/basura.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

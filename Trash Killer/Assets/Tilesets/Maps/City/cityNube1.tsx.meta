@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 741f008c02ba9694a9a3aabe0b0173c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Tilesets/Maps/City/TileSets/Random/cloud_tileset/rpgmaker_vx/cloud_tileA5_2.png
+  errors:
+  - 'Missing texture asset: TileSets/Random/cloud_tileset/rpgmaker_vx/cloud_tileA5_2.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

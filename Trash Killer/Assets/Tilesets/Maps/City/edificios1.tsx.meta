@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b24f603672b665749b467aa5282b7d82
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Tilesets/Maps/City/TileSets/City/AssetsDeCiudad/PNG/City2/Bright/houses11.png
+  errors:
+  - 'Missing texture asset: TileSets/City/AssetsDeCiudad/PNG/City2/Bright/houses11.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

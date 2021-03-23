@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 2c41500f83dee2c42b537be0cca413de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4928689549504794211
+    second: "AtlasPlayaDa\xF1o_0"
+  - first:
+      213: 4145410620365773466
+    second: "AtlasPlayaDa\xF1o_1"
+  - first:
+      213: -3466107052102871732
+    second: "AtlasPlayaDa\xF1o_2"
+  - first:
+      213: -2719877719482181716
+    second: "AtlasPlayaDa\xF1o_3"
+  - first:
+      213: 4898001850226114094
+    second: "AtlasPlayaDa\xF1o_4"
+  - first:
+      213: -5548122515622462423
+    second: "AtlasPlayaDa\xF1o_5"
+  - first:
+      213: -6430835681405478985
+    second: "AtlasPlayaDa\xF1o_6"
+  - first:
+      213: -2604184123283181720
+    second: "AtlasPlayaDa\xF1o_7"
+  - first:
+      213: 7486655895028794358
+    second: "AtlasPlayaDa\xF1o_8"
+  - first:
+      213: -87879244848863375
+    second: "AtlasPlayaDa\xF1o_9"
+  - first:
+      213: -6045236985262755914
+    second: "AtlasPlayaDa\xF1o_10"
+  - first:
+      213: 7474911283073222435
+    second: "AtlasPlayaDa\xF1o_11"
+  - first:
+      213: 437229307661473521
+    second: "AtlasPlayaDa\xF1o_12"
+  - first:
+      213: 8420715420613982822
+    second: "AtlasPlayaDa\xF1o_13"
+  - first:
+      213: -6260712284546574610
+    second: "AtlasPlayaDa\xF1o_14"
+  - first:
+      213: 7622068426863610487
+    second: "AtlasPlayaDa\xF1o_15"
+  - first:
+      213: 9152419395484533819
+    second: "AtlasPlayaDa\xF1o_16"
+  - first:
+      213: -7633976592648669832
+    second: "AtlasPlayaDa\xF1o_17"
+  - first:
+      213: 3329787007270786040
+    second: "AtlasPlayaDa\xF1o_18"
+  - first:
+      213: -1486798412158832445
+    second: "AtlasPlayaDa\xF1o_19"
+  - first:
+      213: 4788049907937115740
+    second: "AtlasPlayaDa\xF1o_20"
+  - first:
+      213: -994011770690984794
+    second: "AtlasPlayaDa\xF1o_21"
+  - first:
+      213: 4173315399943352649
+    second: "AtlasPlayaDa\xF1o_22"
+  - first:
+      213: 545555497271243330
+    second: "AtlasPlayaDa\xF1o_23"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_0"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 243
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec96e2809366440800000000000000
+      internalID: 4928689549504794211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 243
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9803fef4778930800000000000000
+      internalID: 4145410620365773466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 243
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459ee5100ae5efc0800000000000000
+      internalID: -3466107052102871732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 242
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d3c9ef9d014ad0800000000000000
+      internalID: -2719877719482181716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_4"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 242
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efee76bb239f340800000000000000
+      internalID: 4898001850226114094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_5"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 242
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf9fd97fb1103b0800000000000000
+      internalID: -5548122515622462423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_6"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 188
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75be0150511c6a0800000000000000
+      internalID: -6430835681405478985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_7"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 188
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6ef166541cdbd0800000000000000
+      internalID: -2604184123283181720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_8"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 188
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f386caded1f5e760800000000000000
+      internalID: 7486655895028794358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_9"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17767abda4ac7cef0800000000000000
+      internalID: -87879244848863375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_10"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 187
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf2c5eadf00b1ca0800000000000000
+      internalID: -6045236985262755914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_11"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 187
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327832b45383cb760800000000000000
+      internalID: 7474911283073222435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_12"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 115
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65d802db9511600800000000000000
+      internalID: 437229307661473521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_13"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 115
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab9586f046cd470800000000000000
+      internalID: 8420715420613982822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_14"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee65dae095b7d19a0800000000000000
+      internalID: -6260712284546574610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_15"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a0decc9d607c960800000000000000
+      internalID: 7622068426863610487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_16"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 114
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344047d2fce30f70800000000000000
+      internalID: 9152419395484533819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_17"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 114
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875778b4cbaae0690800000000000000
+      internalID: -7633976592648669832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_18"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3161224a7c53e20800000000000000
+      internalID: 3329787007270786040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_19"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 60
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c078a6b8b4dd5be0800000000000000
+      internalID: -1486798412158832445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_20"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 60
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5efe69e502927240800000000000000
+      internalID: 4788049907937115740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_21"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42861af8f8432f0800000000000000
+      internalID: -994011770690984794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_22"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 59
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417a4dbe389ae930800000000000000
+      internalID: 4173315399943352649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AtlasPlayaDa\xF1o_23"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 59
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2423d1495d3329700800000000000000
+      internalID: 545555497271243330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

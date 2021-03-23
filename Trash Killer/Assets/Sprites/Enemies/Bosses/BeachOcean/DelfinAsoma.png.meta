@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: fab1326383920cd4dbf516679e8978de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4271710043600233952
+    second: DelfinAsoma_0
+  - first:
+      213: -5919296586649936771
+    second: DelfinAsoma_1
+  - first:
+      213: 5305195408010748340
+    second: DelfinAsoma_2
+  - first:
+      213: -4396154970384827003
+    second: DelfinAsoma_3
+  - first:
+      213: 8826258029853680111
+    second: DelfinAsoma_4
+  - first:
+      213: -8938892479233719681
+    second: DelfinAsoma_5
+  - first:
+      213: 7499053655805650433
+    second: DelfinAsoma_6
+  - first:
+      213: 37710426981369381
+    second: DelfinAsoma_7
+  - first:
+      213: -580366716438793162
+    second: DelfinAsoma_0
+  - first:
+      213: -203904476653336582
+    second: DelfinAsoma_5
+  - first:
+      213: 3204223060820369855
+    second: DelfinAsoma_6
+  - first:
+      213: 1784839181937222230
+    second: DelfinAsoma_7
+  - first:
+      213: -3350048178468987731
+    second: DelfinAsoma_8
+  - first:
+      213: -5112679148429788624
+    second: DelfinAsoma_9
+  - first:
+      213: 8036474993453161254
+    second: DelfinAsoma_10
+  - first:
+      213: 2044746801524032278
+    second: DelfinAsoma_11
+  - first:
+      213: -3446812346652994226
+    second: DelfinAsoma_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DelfinAsoma_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 34
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5268537, y: 0.4641957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5c80cd1f6adda0800000000000000
+      internalID: -5919296586649936771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 56
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a38e8d17df9940800000000000000
+      internalID: 5305195408010748340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df4a4a858bdf2c0800000000000000
+      internalID: -4396154970384827003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12e552aea2d7a70800000000000000
+      internalID: 8826258029853680111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5dbb0956d7b4c0800000000000000
+      internalID: -4271710043600233952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720dd186aca2f380800000000000000
+      internalID: -8938892479233719681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e3e9719df11860800000000000000
+      internalID: 7499053655805650433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelfinAsoma_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6
+        width: 65
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268d8cfe69f58000800000000000000
+      internalID: 37710426981369381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
